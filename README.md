@@ -1,2 +1,2 @@
 # neural-network-mlp
-Implementation of a multilayer perceptron.
+Implementation of a multilayer perceptron using numpy
